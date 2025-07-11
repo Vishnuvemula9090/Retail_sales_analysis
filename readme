@@ -1,0 +1,44 @@
+# 🛒 Retail Sales Analysis – Superstore Dataset
+
+This project analyzes the **Superstore** retail dataset using Python, SQL (via `pandasql`), and Seaborn to generate business insights from sales data.
+
+## 📌 Project Overview
+
+The objective is to uncover patterns and trends in sales performance, profitability, discount effects, and seasonal changes to drive data-driven decision-making for retail operations.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Python**
+- **Pandas**, **Matplotlib**, **Seaborn** – for data analysis & visualization
+- **pandasql** – to run SQL-like queries on DataFrames
+- **Jupyter Notebook** or **Spyder IDE**
+
+---
+
+## 📊 Key Analyses
+
+- 📍 **Sales and profit performance by region**
+- 🛍️ **Top-selling products and categories**
+- 💸 **Effect of discounts on profit margins**
+- 📆 **Monthly sales and seasonal trends**
+- 📦 **Category and sub-category performance**
+
+---
+
+## 📈 Key Insights
+
+- ✅ The **West** region generates the **highest profit**.
+- ✅ **Technology** products lead in sales performance.
+- ✅ **High discounts** often reduce overall **profitability**.
+- ✅ Sales **peak in November and December**, hinting at seasonal buying trends.
+
+---
+
+## ▶️ How to Run This Project
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/vishnuvemula9090/retail_sales_analysis.git
+   cd retail-sales-analysis
